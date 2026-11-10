@@ -1,0 +1,27 @@
+# Material de clase (no es de mi autoría)
+*.pdf
+PySpark_Databricks_Ejercicios.ipynb
+
+# Credenciales y configuración local
+.env
+.env.*
+*.pem
+*.key
+.databrickscfg
+.claude/
+
+# Metadatos de macOS (aparecen al descomprimir .zip)
+__MACOSX/
+.DS_Store
+._*
+
+# Windows / OneDrive
+desktop.ini
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Videos y archivos pesados de clase
+*.mp4
+*.zip
